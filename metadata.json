@@ -1,0 +1,6 @@
+{
+  "name": "Ascend - Student Career Hub",
+  "description": "Comprehensive career acceleration hub for college students featuring roadmaps, curated courses, interactive coding challenges, internships tracker, ATS resume builder, and interview prep.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
